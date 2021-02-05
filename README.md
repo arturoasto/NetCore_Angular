@@ -4,7 +4,10 @@ Net core 5 and Angular 8 app.
 
 Instructions:  
 <br/>
-make sure you have npm installed and available at command line.  
+Net 5 sdk needed https://dotnet.microsoft.com/download/dotnet/5.0  
+You need to have installed and configured SQL server,  
+this project will use localdb.  
+Make sure you have npm installed and available at command line.  
 1. npm --version
 2. ng --version
 
